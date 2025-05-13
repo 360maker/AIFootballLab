@@ -1,6 +1,6 @@
 export const CLIENT_ID = "5b2ktqs9naet7g4q3bh5u5hk82";
-export const REDIRECT_URI = '${window.location.origin}/callback';
-export const LOGOUT_URI = '${window.location.origin}';
+export const REDIRECT_URI = `${window.location.origin}/callback`;
+export const LOGOUT_URI = `${window.location.origin}`;
 export const REGION = "eu-north-1";
 export const DOMAIN = "aifootballlab-demo.auth.eu-north-1.amazoncognito.com";
 
